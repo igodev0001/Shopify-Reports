@@ -1,0 +1,52 @@
+.loading {
+  height: 100px;
+  text-align: center;
+  padding: 10rem 0;
+}
+
+.innerLoading {
+  height: 100px;
+  text-align: center;
+  padding: 10rem 0;
+}
+
+.innerLoading svg {
+  width: 3rem;
+}
+
+.productWrapper {
+  margin: 6rem 0;
+}
+
+.titleWrapper {
+  margin: 1rem 0;
+}
+
+.customerWrapper {
+  margin: 2rem 0 5rem 0;
+}
+
+.customerTitleWrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.datePicker {
+  margin-top: 3rem;
+}
+
+.actionButton {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 3rem;
+}
+
+.resultsWrapper {
+  margin: 2rem 0;
+}
+
+.exportButton {
+  text-align: right;
+}

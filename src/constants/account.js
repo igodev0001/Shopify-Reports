@@ -1,0 +1,4 @@
+const ACTIVE_STATUS = 1;
+const INACTIVE_STATUS = 0;
+
+module.exports = { ACTIVE_STATUS, INACTIVE_STATUS };

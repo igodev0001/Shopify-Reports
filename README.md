@@ -6,9 +6,18 @@
 
 ## Installation
 
+1) Configure `.env.example` to `.env` and configure the file
+2) Run `npm install`
+3) Install Ngrok for example and configure your `HOST` to be your ngrok https url 
+
 Setup app:
 Allowed redirection URL
 .../auth/callback
+
+## Running (locally)
+
+1) Start your Ngrok
+2) Run `npm run dev`
 
 ## Building
 
